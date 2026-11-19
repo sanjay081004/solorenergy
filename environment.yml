@@ -1,0 +1,9 @@
+name: solar_power_prediction
+channels:
+  - snowflake
+dependencies:
+  - python=3.11
+  - streamlit
+  - pandas
+  - plotly
+  - snowflake-ml-python
